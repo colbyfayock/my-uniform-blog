@@ -1,0 +1,43 @@
+{
+  "site": {
+    "sampleSize": 0,
+    "intents": [
+      {
+        "id": "followOnSocialMedia",
+        "signals": [
+          {
+            "type": "QS",
+            "freq": "visit",
+            "scope": "visitor",
+            "str": 50,
+            "value": {
+              "cs": false,
+              "expr": "newsletter",
+              "type": "exact"
+            },
+            "parameter": "utm_source"
+          }
+        ]
+      },
+      {
+        "id": "checkOutJamstackBook",
+        "signals": [
+          {
+            "type": "QS",
+            "freq": "visit",
+            "scope": "visitor",
+            "str": 50,
+            "value": {
+              "cs": false,
+              "expr": "jamstack",
+              "type": "exact"
+            },
+            "parameter": "utm_campaign"
+          }
+        ]
+      }
+    ],
+    "enrichments": [],
+    "tests": []
+  }
+}
