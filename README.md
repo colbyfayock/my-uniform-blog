@@ -2,6 +2,8 @@
 
 Demo for tutorial [How to Personalize Content & Jamstack Web Experiences with Uniform & Next.js](https://www.youtube.com/watch?v=EPcWjg1GQwM)
 
+🚀 See Demo: https://my-uniform-blog.netlify.app/
+
 📝 Article: https://spacejelly.dev/posts/how-to-personalize-content-jamstack-web-experiences-with-uniform-next-js/
 
 📺 YouTube: https://www.youtube.com/watch?v=EPcWjg1GQwM
